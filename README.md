@@ -76,27 +76,11 @@
 
 ### 🏆 Contest Performance
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mdsameer7453&theme=dark" alt="LeetCode Badges" />
-
-### 📈 Contest Rating Graph
-[![LeetCode Contest](https://leetcode-stats-six.vercel.app/api?username=mdsameer7453&theme=dark)](https://leetcode.com/mdsameer7453/)
-
 </div>
 
 ---
 
-## 🏆 Coding Achievements
 
-<div align="center">
-
-### 🎯 Problem Solving Platforms
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mdsameer7453/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20C%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/md_sameer7453)
-
-### 🏅 Competitive Programming
-![Contest Participated](https://img.shields.io/badge/Contests-50%2B-orange?style=for-the-badge)
-![Max Rating](https://img.shields.io/badge/Max%20Rating-1400%2B-brightgreen?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -142,21 +126,6 @@
 
 </div>
 
----
-
-## 📈 Weekly Development Breakdown
-
-<div align="center">
-
-```text
-JavaScript   ██████████████████████████████████████████████████   48.32%
-React        ███████████████████████████████████████████████████████   23.15%
-Node.js      ████████████████████████████████████████████████████████   13.78%
-C++          ██████████████████████████████████████████████████████████   09.65%
-MongoDB      ████████████████████████████████████████████████████████████   05.10%
-```
-
-</div>
 
 ---
 
