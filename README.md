@@ -72,13 +72,28 @@
 <div align="center">
 
 ### 🔥 Problem Solving Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mdsameer7453?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/mdsameer7453/)
+- ✅ **Total Solved**: 222 / 3601  
+  - 🟢 Easy: 130  
+  - 🟡 Medium: 87  
+  - 🔴 Hard: 5  
+- ⏳ Currently Solving: 13 Problems  
+- 📅 523 submissions in the last year  
+- 🔥 Max Streak: 48 days  
+- 📈 Total Active Days: 114  
 
 ### 🏆 Contest Performance  
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mdsameer7453&theme=dark" alt="LeetCode Badges" />
+- 🚀 **Rating**: 1,266  
+- 🌍 **Global Ranking**: 700,881 / 713,591  
+- 🧠 **Contests Attended**: 13  
+- 🥇 Top Percentile: **98.25%**
 
-### 📈 Contest Rating Graph  
-[![LeetCode Contest](https://leetcode-stats-six.vercel.app/api?username=mdsameer7453&theme=dark)](https://leetcode.com/mdsameer7453/)
+<img src="https://leetcard.jacoblin.cool/mdsameer7453?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats Card" />
+
+<!-- Optional contest graph (customized) -->
+<!-- If this image doesn't work due to API rate limits or issues, leave it commented -->
+<!-- <img src="https://leetcode-stats-six.vercel.app/api?username=mdsameer7453&theme=dark" alt="Contest Rating Graph" /> -->
+
+</div>
 
 </div>
 
